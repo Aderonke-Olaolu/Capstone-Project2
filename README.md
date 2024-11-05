@@ -19,7 +19,7 @@ Final LITA Project with Incubator Hub
 This data analysis involves analyzing customer data for a subscription service to identify segments and trends. The analysis will focus on identifying customer behaviour, track subscription types, and identify key trends in cancellations and renewals.
 
 ### Data Sources
-The main source of the data is SalesData.csv given in class specifically for this project.
+The main source of the data is CustomerData.csv given in class specifically for this project.
 
 ### Tools Used
 - Microsoft Excel [download here](https://www.microsoft.com)
@@ -27,18 +27,19 @@ The main source of the data is SalesData.csv given in class specifically for thi
   2. analysis and
   3. visualisation
   
-- SQL- Structured Query Language for Querying of Data
-- PowerBI for for further analysis and Visualization of insights from excel and SQL
-- GitHub fro Portfolio Building
+- SQL- Structured Query Language for querying of data
+- PowerBI for for further analysis and visualization of insights from excel and SQL
+- GitHub for Portfolio Building
 
 ### Data Exploration
  This involved examining the data to address key questions, such as:
 
-- what is the total sales by product, region, and month?
-- what is the average sales per product?
-- what is the highest-selling product by total sales value?
-- what is the monthly sales totals for the current year?
-- who are the top 5 customers by total purchase amount?
+- what is the subscription pattern?
+- what is the average subscription duration?
+- what is the most popular subscription type?
+- which are the top 3 regions with the highest subscription cancellations?
+- what is the total number of active and canceled subscriptions?
+- who are customers who canceled their subscription within 6 months?
 
 ### Data Analysis
 These are some of the codes, queries and DAX expressions employed in the courese of the analyis:
